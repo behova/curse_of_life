@@ -1,0 +1,10 @@
+[package]
+name = "curse_of_life"
+version = "0.1.0"
+authors = ["behova <szulauf90@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossterm = "0.19.0"
